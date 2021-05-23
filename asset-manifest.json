@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactionaryPortfolio/static/css/main.8bcbd900.chunk.css",
+    "main.js": "/ReactionaryPortfolio/static/js/main.4811d764.chunk.js",
+    "main.js.map": "/ReactionaryPortfolio/static/js/main.4811d764.chunk.js.map",
+    "runtime-main.js": "/ReactionaryPortfolio/static/js/runtime-main.37c1df37.js",
+    "runtime-main.js.map": "/ReactionaryPortfolio/static/js/runtime-main.37c1df37.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/ReactionaryPortfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5621e8b8.chunk.js": "/ReactionaryPortfolio/static/js/2.5621e8b8.chunk.js",
+    "static/js/2.5621e8b8.chunk.js.map": "/ReactionaryPortfolio/static/js/2.5621e8b8.chunk.js.map",
+    "index.html": "/ReactionaryPortfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/ReactionaryPortfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8bcbd900.chunk.css.map": "/ReactionaryPortfolio/static/css/main.8bcbd900.chunk.css.map",
+    "static/js/2.5621e8b8.chunk.js.LICENSE.txt": "/ReactionaryPortfolio/static/js/2.5621e8b8.chunk.js.LICENSE.txt",
+    "static/media/JabEffects.74c4ef36.png": "/ReactionaryPortfolio/static/media/JabEffects.74c4ef36.png",
+    "static/media/application.4aa614bd.gif": "/ReactionaryPortfolio/static/media/application.4aa614bd.gif",
+    "static/media/burger.7aac5eaa.png": "/ReactionaryPortfolio/static/media/burger.7aac5eaa.png",
+    "static/media/me.2e923d54.png": "/ReactionaryPortfolio/static/media/me.2e923d54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c1df37.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5621e8b8.chunk.js",
+    "static/css/main.8bcbd900.chunk.css",
+    "static/js/main.4811d764.chunk.js"
+  ]
+}
